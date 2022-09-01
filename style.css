@@ -1,0 +1,19 @@
+.colordelnav{
+    background-color: transparent;
+    font-family: poppins;
+}
+
+nav{
+    background-color: transparent;
+}
+
+.texto-home{
+    font-size: 5em;
+    font-style: bold;
+}
+
+.imgdefondo{
+    background-image: url("./images/wallpaper-1.jpg");
+    text-align: center;
+    color: aliceblue;
+}
